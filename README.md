@@ -8,35 +8,42 @@
   <a href="#user-content-interests">Interests</a> •
 </p>
 
-Hello! :)
+Hello,
 
 I am Pamela. I am a recently graduated Makers software developer.
 
-Following an MEng in Engineering Science from Oxford University, I worked in Business Development at Lamudi (Rocket Internet) in Nigeria before working as a management consultant.
+Following an MEng in Engineering Science from Oxford University, I worked in Business Development at Lamudi (Rocket Internet) in Nigeria before working as a management consultant. 
+
+I love building things. As a consultant, I realised that I naturally gravitated towards technical work and data analysis. I started programming in my spare time towards helping me improve the tools I built for consulting projects. I realised I loved solving logical problems using software: in particular learning new tools and how to apply them to solve a small problem, exploring new concepts through small projects, building and breaking things...
+
 
 ## Skills
 
 #### Communication
 
+- As a Consultant, I managed multiple stakeholder relationships in my projects. These relationships were across a range of business functions (e.g. HR, IT, Estates) and required consistent and clear communication.
+- I have led client interviews and workshops, aiming to get the most from sometimes challenging situations e.g. restructure.
 
 #### Building Tools
 
+- As a Consultant, I was drawn to developing data tools for clients. I developed a data and resource model to capture previously unquantifiable user demand across large operational areas for clients. This tool provided data to drive the recommendations we made for the client and was adapted for subsequent large projects by the team.
 
-#### Teamwork
+#### Goal Driven & Curious
 
-
-#### Curiosity
-
+- I am organised and goal-driven and have frequently taken the role of Programme Manager for transformation projects. For example, I Programme Managed the integration of a newly acquired business in Asia into a FTSE 100 Insurer based in London. This included designing the system and implementation. This project was successful in achieving a 20% reduction in headcount.
+- I have been learning Python and Machine Learning in my spare time, building a programme for flower recognition.
 
 ## Projects
 Below are some selected projects I have recently worked on:
 
 | Project | Time Frame | Description | Technologies | Testing |
 | --- | --- | --- | --- | --- |
-| SportsMatch | 2 weeks | A web app to help sports players find a sports partner with similar ability to play against in their local area. We built an API in Python and used React on the frontend. | Python, SQLAlchemy, Flask, React | Pytest, Cypress|
-| LizardBook | 2 weeks | A social networking site for lizards | Ruby, Rails, Bcrypt, JQuery | Rspec, Capybara |
-| MakersBnB | 5 days | I worked as part of a team to make a clone or AirBnB by turning technical specifications into a web app. | Ruby, Sinatra | Rspec, Capybara |
-
+| [SportsMatch (React)](https://github.com/Mezela/sportsmatch_react) and [SportsMatch API](https://github.com/Mezela/sportsmatch_api) | 2 weeks | A web app to help sports players find a sports partner with similar ability to play against in their local area. We built an API in Python and used React on the frontend. | Python, SQLAlchemy, Flask, React | Pytest, Cypress|
+| [LizardBook](https://github.com/Mezela/acebook--LizardBook-) | 2 weeks | A social networking site for lizards | Ruby, Rails, Bcrypt, JQuery | Rspec, Capybara |
+| [MakersBnB](https://github.com/Mezela/MakersBnB) | 5 days | I worked as part of a team to make a clone or AirBnB by turning technical specifications into a web app. | Ruby, Sinatra | Rspec, Capybara |
+| [Bowling Scorecard](https://github.com/Mezela/bowling-challenge) | 4 days | A scorecard to help keen bowlers keep track of their score in a game. | Javascript, JQuery | Jasmine |
+| [Rock Paper Scissors](https://github.com/Mezela/rps-challenge) | 2 days | A weekend challenge to create 'Rock, Paper, Scissors' web game. | Ruby, Sinatra | Rspec |
+ 
 
 ## Education
 #### Makers Academy (Sept - Dec 2019)
@@ -57,6 +64,7 @@ A 12 week intensive coding bootcamp, focused on web development. While on the co
 **KPMG** (2014 - 2018)    
 *Management Consultant*  
 
+- Worked across multiple sectors focused on developing data and resource modelling tools to enable companies to improve service delivery and process efficiency, and to reduce costs.
 - Managed teams and workstreams, and owned client deliverables.
 - Industries/clients included a global bank, a global insurance firm, a global pharmaceutical firm, NHS trusts and metropolitan police forces. 
 - Data Quality: Developed a multi-level, KPI-based Qlikview data dashboard to track and improve operational performance.
@@ -65,7 +73,7 @@ A 12 week intensive coding bootcamp, focused on web development. While on the co
 **Lamudi, Rocket Internet** (2014)   
 *Business Development Executive*  
 
--	Early employee for Lamudi Nigeria, a Rocket Internet subsidiary (an emerging market focused e-commerce start-up incubator with $1bn+ funding) and Nigeria’s leading online real estate marketplace.
+-	Early employee for Lamudi Nigeria, a Rocket Internet subsidiary (an emerging market focused e-commerce start-up incubator with $1bn+ funding) and one of Nigeria’s leading online real estate marketplaces.
 -	Identified revenue potential, market trends and defined new market differentiation and growth strategies.  
 
 ### Volunteering
@@ -78,4 +86,5 @@ A 12 week intensive coding bootcamp, focused on web development. While on the co
 
 ## Other Interests
 - Painting / sketching
-- (Winning) Pub quizzes
+- (winning) Pub quizzes
+
