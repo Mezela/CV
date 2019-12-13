@@ -1,4 +1,5 @@
 <h1 align="center"> Pamela C. Mezue </h1>
+<h3 align="center"> Software Developer </h3>
 
 <p align="center">
   <a href="#user-content-skills">Skills</a> •
@@ -8,9 +9,6 @@
   <a href="#user-content-interests">Interests</a> •
 </p>
 
-Hello,
-
-I am Pamela. I am a recently graduated Makers software developer.
 
 Following an MEng in Engineering Science from Oxford University, I worked in Business Development at Lamudi (Rocket Internet) in Nigeria before working as a management consultant. 
 
@@ -38,9 +36,9 @@ Below are some selected projects I have recently worked on:
 
 | Project | Time Frame | Description | Technologies | Testing |
 | --- | --- | --- | --- | --- |
-| [SportsMatch (React)](https://github.com/Mezela/sportsmatch_react) and [SportsMatch API](https://github.com/Mezela/sportsmatch_api) | 2 weeks | A web app to help sports players find a sports partner with similar ability to play against in their local area. We built an API in Python and used React on the frontend. | Python, SQLAlchemy, Flask, React | Pytest, Cypress|
-| [LizardBook](https://github.com/Mezela/acebook--LizardBook-) | 2 weeks | A social networking site for lizards | Ruby, Rails, Bcrypt, JQuery | Rspec, Capybara |
-| [MakersBnB](https://github.com/Mezela/MakersBnB) | 5 days | I worked as part of a team to make a clone or AirBnB by turning technical specifications into a web app. | Ruby, Sinatra | Rspec, Capybara |
+| [SportsMatch (React)](https://github.com/Mezela/sportsmatch_react) and [SportsMatch API](https://github.com/Mezela/sportsmatch_api) | 2 weeks | A web app to help sports players find a sports partner with similar ability to play against in their local area. We built an API in Python and used React on the frontend. Final group project following agile methodologies while using a new stack. | Python, SQLAlchemy, Flask, React | Pytest, Cypress|
+| [LizardBook](https://github.com/Mezela/acebook--LizardBook-) | 2 weeks | A social networking site for lizards. Second team project, where we learnt Rails. | Ruby, Rails, Bcrypt, JQuery | Rspec, Capybara |
+| [MakersBnB](https://github.com/Mezela/MakersBnB) | 5 days | First team project building I worked as part of a team to make a clone or AirBnB by turning technical specifications into a web app. | Ruby, Sinatra | Rspec, Capybara |
 | [Bowling Scorecard](https://github.com/Mezela/bowling-challenge) | 4 days | A scorecard to help keen bowlers keep track of their score in a game. | Javascript, JQuery | Jasmine |
 | [Rock Paper Scissors](https://github.com/Mezela/rps-challenge) | 2 days | A weekend challenge to create 'Rock, Paper, Scissors' web game. | Ruby, Sinatra | Rspec |
  
