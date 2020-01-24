@@ -25,7 +25,6 @@ Below are some selected projects I have recently worked on:
 | [LizardBook](https://github.com/Mezela/acebook--LizardBook-) | 2 weeks | A social networking site for lizards. Second team project, where we learnt Rails. | Ruby, Rails, Bcrypt, JQuery | Rspec, Capybara |
 | [MakersBnB](https://github.com/Mezela/MakersBnB) | 5 days | First team project building I worked as part of a team to make a clone or AirBnB by turning technical specifications into a web app. | Ruby, Sinatra | Rspec, Capybara |
 | [Bowling Scorecard](https://github.com/Mezela/bowling-challenge) | 4 days | A scorecard to help keen bowlers keep track of their score in a game. | Javascript, JQuery | Jasmine |
-| [Rock Paper Scissors](https://github.com/Mezela/rps-challenge) | 2 days | A weekend challenge to create 'Rock, Paper, Scissors' web app. Tested my understanding of the MVC structure. | Ruby, Sinatra | Rspec |
  
 
 ## Skills
